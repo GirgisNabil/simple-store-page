@@ -104,7 +104,7 @@ nav .search-bar {
   height: 94%;
   width: 100%;
   border-radius: 20px;
-  background-image: url("/main.png");
+  background-image: url("main.png");
   background-position: 10px;
   display: flex;
   justify-content: center;
@@ -115,7 +115,7 @@ nav .search-bar {
   border-radius: 50%;
   background-color: black;
   border: 2px solid black;
-  background-image: url(/logo.png);
+  background-image: url("logo.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
